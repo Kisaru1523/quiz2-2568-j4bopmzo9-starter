@@ -19,5 +19,7 @@ export default function MainLayout() {
         <Outlet />
       </AppShell.Main>
     </AppShell>
+    
   );
+  
 }
